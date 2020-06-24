@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app-one/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-app-one/static/js/main.13587437.chunk.js",
+    "main.js.map": "/my-app-one/static/js/main.13587437.chunk.js.map",
+    "runtime-main.js": "/my-app-one/static/js/runtime-main.ad4029b0.js",
+    "runtime-main.js.map": "/my-app-one/static/js/runtime-main.ad4029b0.js.map",
+    "static/js/2.f4d45514.chunk.js": "/my-app-one/static/js/2.f4d45514.chunk.js",
+    "static/js/2.f4d45514.chunk.js.map": "/my-app-one/static/js/2.f4d45514.chunk.js.map",
+    "index.html": "/my-app-one/index.html",
+    "precache-manifest.34ef295e27de949123e26b86b7ab96bf.js": "/my-app-one/precache-manifest.34ef295e27de949123e26b86b7ab96bf.js",
+    "service-worker.js": "/my-app-one/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-app-one/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f4d45514.chunk.js.LICENSE.txt": "/my-app-one/static/js/2.f4d45514.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-app-one/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad4029b0.js",
+    "static/js/2.f4d45514.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.13587437.chunk.js"
+  ]
+}
